@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.app-container {
+  background-color: #161625;
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+}
+.cowin-dashboard-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  width: 80%;
+  font-family: 'Roboto';
+  color: #fff;
+}
+.logo-container {
+  display: flex;
+  align-items: center;
+}
+.logo {
+  height: 40px;
+  width: 40px;
+  margin-right: 10px;
+}
+.logo-title {
+  color: #2cc6c6;
+}
+.title {
+  color: #cbd5e1;
+}
